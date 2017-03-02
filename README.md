@@ -1,2 +1,1 @@
-# tl-wiki
-Wiki for Targeted Learning software 
+See the [wiki](https://github.com/BerkeleyBiostats/tl-wiki/wiki)
